@@ -1,10 +1,10 @@
 SKIN LESION SEGMENTATION USING DEEP LEARNING AND ENSEMBLE TECHNIQUES
 
 Datasets used - ISIC 2018 and PH2 
-Links - 1) https://challenge.isic-archive.com/data/#2018
+Links 
+1) https://challenge.isic-archive.com/data/#2018
         
-        
-        2) https://www.kaggle.com/datasets/athina123/ph2dataset
+2) https://www.kaggle.com/datasets/athina123/ph2dataset
 
 
 3 dataset folders were used in this project:
