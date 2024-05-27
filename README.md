@@ -13,7 +13,7 @@ A] dataset folder includes ISIC2018_Task1_Training_GroundTruth and ISIC2018_Task
 
 B] ph2_resized folder includes trainx and trainy
 
-C] unet_dataset folder includes  
+C] unet_dataset folder includes:
   - ISIC2018_Task1_Test_GroundTruth
   - ISIC2018_Task1_Validation_GroundTruth
   - ISIC2018_Task1-2_Validation_Input
