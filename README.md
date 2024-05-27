@@ -21,3 +21,6 @@ C] unet_dataset folder includes:
   - ISIC2018_Task3_Training_GroundTruth.csv
 
 The "27-3-2024 UPDATE" folder includes all the files under the hrnet folder on this git repo.
+
+
+The ensemble technique used in this project is "AVERAGE WEIGHTING".
