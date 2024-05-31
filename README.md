@@ -38,5 +38,6 @@ C] unet_dataset folder includes:
 
 The "27-3-2024 UPDATE" folder includes all the files under the hrnet folder on this git repo.
 
+The 'test_images' folder includes images for gui testing
 
 
